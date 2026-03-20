@@ -32,3 +32,6 @@ override.tf.json
 
 settings.json
 .DS_Store
+
+apikey
+SecretKey.txt
