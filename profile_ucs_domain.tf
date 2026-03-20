@@ -1,5 +1,5 @@
 resource "intersight_fabric_switch_cluster_profile" "example" {
-  name = "RTP-IMM-Domain"
+  name = "RTP-IMM-Domain-1"
   dynamic "tags" {
     for_each = local.tags
     content {
