@@ -2,7 +2,6 @@
 
 # A Study of Intersight in Terraform
 
-
 ## Purpose
 
 This code provides a simplified look at configuring Intersight via Terraform.  It works both as a set of coherent examples, and as a base for simple actives in a lab or learning environment.
