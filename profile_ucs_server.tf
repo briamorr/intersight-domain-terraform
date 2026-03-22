@@ -1,5 +1,5 @@
 resource "intersight_server_profile" "example-fi-attached" {
-  name = "IMM-Server-1"
+  name = "IMM-Server-1a"
   dynamic "tags" {
     for_each = local.tags
     content {
